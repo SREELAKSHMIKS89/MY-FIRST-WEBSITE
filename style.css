@@ -1,0 +1,49 @@
+body {
+   margin: 10px;
+   padding-top: 800px; 
+}
+#WELCOME {
+    text-align: center;
+    position: absolute;
+    overflow: hidden;
+    color: #ffffff;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    opacity: 0.83;
+    display: table;
+    width: 100%;
+    height: 100%;
+    background:linear-gradient(#06c7aa 0%, #0505ad 100%);    
+}
+#image {
+    text-align: center;
+    border-radius: 33%;
+    height: 333px;
+    width: 333px;
+}
+#image_2 {
+    text-align: center;
+    border-radius: 33%;
+    height: 333px;
+    width: 333px;
+}
+#MY_FAV_1 {
+    padding: 0px;
+    text-align: center;
+    display: table-cell;
+    position: relative;
+    vertical-align: middle;
+    overflow: hidden;
+    color: #ffffff;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    opacity: 0.83;
+    display: table;
+    width: 100%;
+    height: 100%;
+    background:linear-gradient(#06c7aa 0%, #0505ad 100%);    
+}
